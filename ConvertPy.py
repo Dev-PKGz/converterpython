@@ -51,4 +51,3 @@ if __name__ == "__main__":
     
     # Inicia o processo de criação do executável
     criar_executavel()
-    
